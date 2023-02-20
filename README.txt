@@ -19,7 +19,7 @@ Evaluate the model: This involves testing the model on a separate test dataset t
 The Deployment of this project is done using the python django
 
 
-URL: http://127.0.0.1:8000/ocr/
+URL: http://127.0.0.1:8000/ocr
 
 To execute:
 1) set path to the project_directory
